@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Aktürk</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 💬 Ask me about **React, Vue, Next**
+- 💬 Ask me about **Vue, React, Nuxt, Next**
 
 - 📫 How to reach me **yasnaktrk@gmail.com**
 
